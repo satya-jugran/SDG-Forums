@@ -1,0 +1,27 @@
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\SDG Forums.Tests.dll.config
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\SDG Forums.Tests.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\SDG Forums.Tests.pdb
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\SDG Forums.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Net.Http.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.Razor.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\SDG Forums.pdb
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Net.Http.xml
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.Razor.xml
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\obj\Debug\SDG Forums.Tests.csprojResolveAssemblyReference.cache
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\obj\Debug\SDG Forums.Tests.dll
+D:\Apps\SDG Forums\SDG Forums\SDG Forums.Tests\obj\Debug\SDG Forums.Tests.pdb
